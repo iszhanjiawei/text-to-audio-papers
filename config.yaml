@@ -1,0 +1,85 @@
+
+max_results: 30
+
+# file paths
+json_readme_path: './docs/tts-arxiv-daily.json'
+
+md_readme_path: 'README.md'
+
+
+# keywords to search
+# keywords to search
+keywords:
+#    "Lip-reading-papers":
+#        # filters: ["TTS", "Text to speech", "TEXT-TO-SPEECH", "Text-to-Speech", "Speech Synthesis", "Voice
+#        # Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS", "text-to-speech"]
+#        filters: ["Lip Reading", "lipreading","lip-reading"]
+#
+#    "Lip-sync-papers":
+#        # filters: ["TTS", "Text to speech", "TEXT-TO-SPEECH", "Text-to-Speech", "Speech Synthesis", "Voice
+#        # Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS", "text-to-speech"]
+#        filters: ["Lip sync", "lip synchronization", "lip-speech synchronization"]
+#
+#    "Lip-to-speech-papers":
+#      # filters: ["TTS", "Text to speech", "TEXT-TO-SPEECH", "Text-to-Speech", "Speech Synthesis", "Voice
+#      # Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS", "text-to-speech"]
+#        filters: [ "Lip-to-speech", "Lip to speech", "Lip2Speech" ]
+#
+#    "video-to-speech-papers":
+#      # filters: ["TTS", "Text to speech", "TEXT-TO-SPEECH", "Text-to-Speech", "Speech Synthesis", "Voice
+#      # Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS", "text-to-speech"]
+#        filters: [ "video-to-speech" ]
+#
+#    "audio-video synchronizations":
+#        # filters: ["TTS", "Text to speech", "TEXT-TO-SPEECH", "Text-to-Speech", "Speech Synthesis", "Voice
+#        # Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS", "text-to-speech"]
+#        filters: [ "audio-video synchronization"]
+#
+#    "multimodal Aligned synchronizations":
+#        # filters: ["TTS", "Text to speech", "TEXT-TO-SPEECH", "Text-to-Speech", "Speech Synthesis", "Voice
+#        # Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS", "text-to-speech"]
+#        filters: [ "multimodal Aligned", "Multimodal Alignment"]
+#    "talking-head-papers":
+#        # filters: ["TTS", "Text to speech", "TEXT-TO-SPEECH", "Text-to-Speech", "Speech Synthesis", "Voice
+#        # Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS", "text-to-speech"]
+#        filters: ["Talking Face", "Talking Head", "Talking Avatar"]
+#    "Text-to-Video-papers":
+#      # filters: ["TTS", "Text to speech", "TEXT-TO-SPEECH", "Text-to-Speech", "Speech Synthesis", "Voice
+#      # Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS", "text-to-speech"]
+#      filters: [ "Text-to-Video" ]
+#    "Multimodal-Representation-Learning-papers":
+#      # filters: ["TTS", "Text to speech", "TEXT-TO-SPEECH", "Text-to-Speech", "Speech Synthesis", "Voice
+#      # Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS", "text-to-speech"]
+#      filters: [ "Multimodal Representation Learning", "multimodal representation"]
+#    "Multimodal-to-speech-papers":
+#      # filters: ["TTS", "Text to speech", "TEXT-TO-SPEECH", "Text-to-Speech", "Speech Synthesis", "Voice
+#      # Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS", "text-to-speech"]
+#      filters: [ "multimodal-to-speech", "multimodal to speech"]
+#    "representation-alignment-papers":
+#      # filters: ["TTS", "Text to speech", "TEXT-TO-SPEECH", "Text-to-Speech", "Speech Synthesis", "Voice
+#      # Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS", "text-to-speech"]
+#      filters: [ "representation alignment"]
+#    "multimodal-representation-alignment-papers":
+#      # filters: ["TTS", "Text to speech", "TEXT-TO-SPEECH", "Text-to-Speech", "Speech Synthesis", "Voice
+#      # Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS", "text-to-speech"]
+#      filters: [ "Multimodal representation alignment"]
+#    "Multimodal-Representation-Learning-papers":
+#      # filters: ["TTS", "Text to speech", "TEXT-TO-SPEECH", "Text-to-Speech", "Speech Synthesis", "Voice
+#      # Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS", "text-to-speech"]
+#      filters: [ "text-video-to-audio"]
+#    "Representation-alignment-papers":
+#      # filters: ["TTS", "Text to speech", "TEXT-TO-SPEECH", "Text-to-Speech", "Speech Synthesis", "Voice
+#      # Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS", "text-to-speech"]
+#      filters: [ "Representation alignment", "REPA"]
+#    "video-to-audio-papers":
+#      # filters: ["TTS", "Text to speech", "TEXT-TO-SPEECH", "Text-to-Speech", "Speech Synthesis", "Voice
+#      # Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS", "text-to-speech"]
+#      filters: [ "video-to-audio", "Video to Audio", "V2A"]
+#    "only-video-to-audio-papers":
+#      # filters: ["TTS", "Text to speech", "TEXT-TO-SPEECH", "Text-to-Speech", "Speech Synthesis", "Voice
+#      # Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS", "text-to-speech"]
+#      filters: [ "video-to-audio"]
+    "Text-To-Audio-papers":
+      # filters: ["TTS", "Text to speech", "TEXT-TO-SPEECH", "Text-to-Speech", "Speech Synthesis", "Voice
+      # Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS", "text-to-speech"]
+      filters: [ "Text-to-Audio", "Text-to-audio", "audio generation","T2A", "TTA"]
