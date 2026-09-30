@@ -1,4 +1,4 @@
-## Updated on 2026.09.29
+## Updated on 2026.09.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,12 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-29**|**AS $^2$ D: Accelerating On-Demand Audio Understanding on Mobile Devices**|Yunzhe Li et.al.|[2609.37617](http://arxiv.org/abs/2609.37617)|null|
+|**2026-09-29**|**Credit-Guided Policy Improvement for Test-time Adaptive Vision-Language Navigation**|Yang Li et.al.|[2609.37591](http://arxiv.org/abs/2609.37591)|null|
+|**2026-09-29**|**Not Every Correction Helps: Gain-Guided Continual Test-Time Adaptation**|Youjia Zhang et.al.|[2609.36655](http://arxiv.org/abs/2609.36655)|null|
 |**2026-09-28**|**PDMD: Projected Distribution Matching Distillation for Video Diffusion Models**|Zimo Wang et.al.|[2609.35768](http://arxiv.org/abs/2609.35768)|null|
 |**2026-09-28**|**Where Do Embodied Decisions Come From? Rethinking Latent and Explicit Reasoning**|Yuan Lin et.al.|[2609.34794](http://arxiv.org/abs/2609.34794)|null|
 |**2026-09-28**|**Correction-space Cross-variate Interaction for Test-time Adaptation in Time Series Forecasting**|Yuanyuan Deng et.al.|[2609.34638](http://arxiv.org/abs/2609.34638)|null|
 |**2026-09-28**|**Joint and Cross-Modal Video-Audio Generation and Editing: A Unified Formulation and Design Taxonomy**|Abhinav Sharma et.al.|[2609.34381](http://arxiv.org/abs/2609.34381)|null|
 |**2026-09-28**|**OmniVR: Audio-Video Conditional Generation for Archival Footage Restoration**|Xin Lu et.al.|[2608.04224](http://arxiv.org/abs/2608.04224)|null|
 |**2026-09-28**|**ImmersiveFlow: Stereo-to-7.1.4 spatial audio generation with flow matching**|Zining Liang et.al.|[2601.12950](http://arxiv.org/abs/2601.12950)|null|
+|**2026-09-28**|**Enabling Immersive Audio-Visual Experience from Any Video**|Zitong Lan et.al.|[2609.36295](http://arxiv.org/abs/2609.36295)|null|
 |**2026-09-27**|**Test-Time Generalized Category Discovery**|Shambhavi Mishra et.al.|[2609.33937](http://arxiv.org/abs/2609.33937)|null|
 |**2026-09-27**|**Binding Multiple Modalities via Multimodal Wasserstein Barycenter**|Xiaole Tang et.al.|[2609.33800](http://arxiv.org/abs/2609.33800)|null|
 |**2026-09-27**|**GeoShrink: Accelerating Diffusion Transformers with Two Lines of Code**|Haosen Li et.al.|[2609.33723](http://arxiv.org/abs/2609.33723)|null|
@@ -1515,5 +1519,5 @@
 |**2023-03-29**|**TTA-COPE: Test-Time Adaptation for Category-Level Object Pose Estimation**|Taeyeop Lee et.al.|[2303.16730](http://arxiv.org/abs/2303.16730)|null|
 |**2023-03-29**|**Sounding Video Generator: A Unified Framework for Text-guided Sounding Video Generation**|Jiawei Liu et.al.|[2303.16541](http://arxiv.org/abs/2303.16541)|null|
 
-<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260930>back to top</a>)</p>
 
