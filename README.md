@@ -1,4 +1,4 @@
-## Updated on 2026.09.30
+## Updated on 2026.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-30**|**Here the World in Stereo: Learning Dynamic Spatial Correspondence for Immersive Joint Video-Audio Generation**|Hanmo Chen et.al.|[2609.38748](http://arxiv.org/abs/2609.38748)|null|
 |**2026-09-29**|**AS $^2$ D: Accelerating On-Demand Audio Understanding on Mobile Devices**|Yunzhe Li et.al.|[2609.37617](http://arxiv.org/abs/2609.37617)|null|
 |**2026-09-29**|**Credit-Guided Policy Improvement for Test-time Adaptive Vision-Language Navigation**|Yang Li et.al.|[2609.37591](http://arxiv.org/abs/2609.37591)|null|
 |**2026-09-29**|**Not Every Correction Helps: Gain-Guided Continual Test-Time Adaptation**|Youjia Zhang et.al.|[2609.36655](http://arxiv.org/abs/2609.36655)|null|
@@ -29,6 +30,7 @@
 |**2026-09-27**|**GeoShrink: Accelerating Diffusion Transformers with Two Lines of Code**|Haosen Li et.al.|[2609.33723](http://arxiv.org/abs/2609.33723)|null|
 |**2026-09-27**|**CORA: A Protocol for Diagnosing Boundary Robustness in Text-to-Audio Retrieval under Query Reformulations**|Jae Min Woo et.al.|[2609.33433](http://arxiv.org/abs/2609.33433)|null|
 |**2026-09-27**|**PACE-FNO: Physics-Aligned Canonical Equivariance for Fourier Neural Operators**|Jiaxiao Xu et.al.|[2605.18606](http://arxiv.org/abs/2605.18606)|null|
+|**2026-09-27**|**TutlAit v1: a crowdsourced Moroccan Tamazight speech dataset with Arabic transcriptions and regional accent labels**|Mohamed-Amine Chadi et.al.|[2609.38219](http://arxiv.org/abs/2609.38219)|null|
 |**2026-09-26**|**SAGE: Semantic Audio Generative Encoder**|Francesco Brigante et.al.|[2609.32755](http://arxiv.org/abs/2609.32755)|null|
 |**2026-09-26**|**CUE-Mem: Benchmarking Long-Term User Memory via Implicit Cues in Multimodal Conversations**|Yulin Hu et.al.|[2609.32574](http://arxiv.org/abs/2609.32574)|null|
 |**2026-09-26**|**Representation Editing for Multimodal Test-Time Adaptation**|Longfei Huang et.al.|[2609.32263](http://arxiv.org/abs/2609.32263)|null|
@@ -1519,5 +1521,5 @@
 |**2023-03-29**|**TTA-COPE: Test-Time Adaptation for Category-Level Object Pose Estimation**|Taeyeop Lee et.al.|[2303.16730](http://arxiv.org/abs/2303.16730)|null|
 |**2023-03-29**|**Sounding Video Generator: A Unified Framework for Text-guided Sounding Video Generation**|Jiawei Liu et.al.|[2303.16541](http://arxiv.org/abs/2303.16541)|null|
 
-<p align=right>(<a href=#updated-on-20260930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
