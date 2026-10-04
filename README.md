@@ -1,4 +1,4 @@
-## Updated on 2026.10.03
+## Updated on 2026.10.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -1524,5 +1524,5 @@
 |**2023-03-29**|**TTA-COPE: Test-Time Adaptation for Category-Level Object Pose Estimation**|Taeyeop Lee et.al.|[2303.16730](http://arxiv.org/abs/2303.16730)|null|
 |**2023-03-29**|**Sounding Video Generator: A Unified Framework for Text-guided Sounding Video Generation**|Jiawei Liu et.al.|[2303.16541](http://arxiv.org/abs/2303.16541)|null|
 
-<p align=right>(<a href=#updated-on-20261003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261004>back to top</a>)</p>
 
