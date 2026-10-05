@@ -1,4 +1,4 @@
-## Updated on 2026.10.04
+## Updated on 2026.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-02**|**Uncertainty as a Proxy for Semantic Correctness in Diffusion-Based Medical Image Synthesis**|Yuxuan Ou et.al.|[2610.03224](http://arxiv.org/abs/2610.03224)|null|
+|**2026-10-02**|**OmniConfess: Eliciting Token Confessions to Mitigate Omni-Modal Hallucination**|Huiqiang Rong et.al.|[2610.02999](http://arxiv.org/abs/2610.02999)|null|
 |**2026-10-01**|**Omni-Embed-Mini: Binding Modalities Without Forgetting via Dense Distillation**|Mohammed Irfan Kurpath et.al.|[2610.02148](http://arxiv.org/abs/2610.02148)|null|
 |**2026-10-01**|**Uncertainty-Guided Handshake: Efficient Human-in-the-Loop Refinement for Surgical-Grade Glioma Segmentation**|Samuel Hart et.al.|[2610.01452](http://arxiv.org/abs/2610.01452)|null|
 |**2026-09-30**|**Here the World in Stereo: Learning Dynamic Spatial Correspondence for Immersive Joint Video-Audio Generation**|Hanmo Chen et.al.|[2609.38748](http://arxiv.org/abs/2609.38748)|null|
@@ -1524,5 +1526,5 @@
 |**2023-03-29**|**TTA-COPE: Test-Time Adaptation for Category-Level Object Pose Estimation**|Taeyeop Lee et.al.|[2303.16730](http://arxiv.org/abs/2303.16730)|null|
 |**2023-03-29**|**Sounding Video Generator: A Unified Framework for Text-guided Sounding Video Generation**|Jiawei Liu et.al.|[2303.16541](http://arxiv.org/abs/2303.16541)|null|
 
-<p align=right>(<a href=#updated-on-20261004>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
 
