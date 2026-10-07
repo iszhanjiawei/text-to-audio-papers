@@ -1,4 +1,4 @@
-## Updated on 2026.10.06
+## Updated on 2026.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,14 +14,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-06**|**Test-Time Adaptation of Quantized ViTs via Single-Pass Quantizer-Aligned Recalibration**|Hyeongheon Cha et.al.|[2610.08358](http://arxiv.org/abs/2610.08358)|null|
+|**2026-10-06**|**CTAG-FX: Reinterpreting Synthesizer Parameter Spaces for Expressive Tone-Shaping Audio FX Design**|Geonung Jo et.al.|[2610.08182](http://arxiv.org/abs/2610.08182)|null|
 |**2026-10-05**|**OmniConfess: Eliciting Token Confessions to Mitigate Omni-Modal Hallucination**|Huiqiang Rong et.al.|[2610.02999](http://arxiv.org/abs/2610.02999)|null|
 |**2026-10-05**|**Efficient Test-time Adaptation through Candidate Verification and Divergence Shifts**|Seungmin Oh et.al.|[2610.06147](http://arxiv.org/abs/2610.06147)|null|
 |**2026-10-05**|**Relational Synthesis: Structure-Mediated Concatenative Synthesis for Foley and Retrieval-Augmented Audio Generation**|Keren Shao et.al.|[2610.05768](http://arxiv.org/abs/2610.05768)|null|
 |**2026-10-05**|**AudioGAR: Bridging Reconstruction and Generation in Latent Audio Generative Models**|Xianghong Fang et.al.|[2610.05691](http://arxiv.org/abs/2610.05691)|null|
+|**2026-10-05**|**Source-Learned Reliance for Selective Test-Time Adaptation of Multimodal Time Series**|Payal Mohapatra et.al.|[2610.07499](http://arxiv.org/abs/2610.07499)|null|
+|**2026-10-05**|**GIVE-KWS: Gated Injection of Visual Evidence for Noise-Robust Query-by-Example Keyword Spotting**|Ming-Hsiang Hu et.al.|[2610.07046](http://arxiv.org/abs/2610.07046)|null|
 |**2026-10-04**|**Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation**|Team Kandinsky et.al.|[2610.05608](http://arxiv.org/abs/2610.05608)|null|
 |**2026-10-04**|**Prism: Dynamic Sparse Attention for Native 2K Joint Video-Audio Generation Model Training**|Shuyuan Tu et.al.|[2610.05416](http://arxiv.org/abs/2610.05416)|null|
 |**2026-10-03**|**SAGE: Semantic Audio Generative Encoder**|Francesco Brigante et.al.|[2609.32755](http://arxiv.org/abs/2609.32755)|null|
 |**2026-10-03**|**A Geometric-Transformation Feature-Adaptive Manifold Restoration Method for Open-Vocabulary Semantic Segmentation of Remote Sensing Images**|Jianzheng Wang et.al.|[2610.04300](http://arxiv.org/abs/2610.04300)|null|
+|**2026-10-03**|**RADC: Risk-Aware Dual Caching for Vision-Language Test-Time Adaptation**|Siyu Huang et.al.|[2610.06932](http://arxiv.org/abs/2610.06932)|null|
 |**2026-10-02**|**Uncertainty as a Proxy for Semantic Correctness in Diffusion-Based Medical Image Synthesis**|Yuxuan Ou et.al.|[2610.03224](http://arxiv.org/abs/2610.03224)|null|
 |**2026-10-02**|**The Reported Engagement with AI Level (REAL) Rating: A Framework for Disclosing Human-AI Collaboration**|Imène Goumiri et.al.|[2610.04021](http://arxiv.org/abs/2610.04021)|null|
 |**2026-10-01**|**Omni-Embed-Mini: Binding Modalities Without Forgetting via Dense Distillation**|Mohammed Irfan Kurpath et.al.|[2610.02148](http://arxiv.org/abs/2610.02148)|null|
@@ -1533,5 +1538,5 @@
 |**2023-03-29**|**TTA-COPE: Test-Time Adaptation for Category-Level Object Pose Estimation**|Taeyeop Lee et.al.|[2303.16730](http://arxiv.org/abs/2303.16730)|null|
 |**2023-03-29**|**Sounding Video Generator: A Unified Framework for Text-guided Sounding Video Generation**|Jiawei Liu et.al.|[2303.16541](http://arxiv.org/abs/2303.16541)|null|
 
-<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
 
