@@ -1,4 +1,4 @@
-## Updated on 2026.10.07
+## Updated on 2026.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -31,6 +31,7 @@
 |**2026-10-02**|**The Reported Engagement with AI Level (REAL) Rating: A Framework for Disclosing Human-AI Collaboration**|Imène Goumiri et.al.|[2610.04021](http://arxiv.org/abs/2610.04021)|null|
 |**2026-10-01**|**Omni-Embed-Mini: Binding Modalities Without Forgetting via Dense Distillation**|Mohammed Irfan Kurpath et.al.|[2610.02148](http://arxiv.org/abs/2610.02148)|null|
 |**2026-10-01**|**Uncertainty-Guided Handshake: Efficient Human-in-the-Loop Refinement for Surgical-Grade Glioma Segmentation**|Samuel Hart et.al.|[2610.01452](http://arxiv.org/abs/2610.01452)|null|
+|**2026-10-01**|**Indic-CLAP: Text--Audio Understanding in Indic Languages via Cross-Lingual Distillation**|Sanat Kumar Agrawal et.al.|[2610.08846](http://arxiv.org/abs/2610.08846)|null|
 |**2026-09-30**|**Here the World in Stereo: Learning Dynamic Spatial Correspondence for Immersive Joint Video-Audio Generation**|Hanmo Chen et.al.|[2609.38748](http://arxiv.org/abs/2609.38748)|null|
 |**2026-09-30**|**PLACE: Positional Latent Adaptation via Conditioned Embeddings for Binaural Audio Generation**|Tiernon Riesenmy et.al.|[2610.00630](http://arxiv.org/abs/2610.00630)|null|
 |**2026-09-29**|**AS $^2$ D: Accelerating On-Demand Audio Understanding on Mobile Devices**|Yunzhe Li et.al.|[2609.37617](http://arxiv.org/abs/2609.37617)|null|
@@ -1538,5 +1539,5 @@
 |**2023-03-29**|**TTA-COPE: Test-Time Adaptation for Category-Level Object Pose Estimation**|Taeyeop Lee et.al.|[2303.16730](http://arxiv.org/abs/2303.16730)|null|
 |**2023-03-29**|**Sounding Video Generator: A Unified Framework for Text-guided Sounding Video Generation**|Jiawei Liu et.al.|[2303.16541](http://arxiv.org/abs/2303.16541)|null|
 
-<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261008>back to top</a>)</p>
 
