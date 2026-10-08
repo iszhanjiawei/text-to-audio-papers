@@ -1,5 +1,5 @@
 
-max_results: 30
+max_results: 2000
 
 # file paths
 json_readme_path: './docs/tts-arxiv-daily.json'
@@ -82,4 +82,4 @@ keywords:
     "Text-To-Audio-papers":
       # filters: ["TTS", "Text to speech", "TEXT-TO-SPEECH", "Text-to-Speech", "Speech Synthesis", "Voice
       # Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS", "text-to-speech"]
-      filters: [ "Text-to-Audio", "Text-to-audio", "audio generation","T2A", "TTA"]
+      filters: [ "Text-to-Audio", "Text-to-audio", "audio generation"]
