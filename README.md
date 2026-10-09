@@ -1,4 +1,4 @@
-## Updated on 2026.10.08
+## Updated on 2026.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-08**|**Hear the World in Stereo: Learning Dynamic Spatial Correspondence for Immersive Joint Video-Audio Generation**|Hanmo Chen et.al.|[2609.38748](http://arxiv.org/abs/2609.38748)|null|
+|**2026-10-08**|**Open-Vocabulary Audio-Visual Event Localization via Complex-Valued Fusion**|Anirudh Praveen et.al.|[2610.11846](http://arxiv.org/abs/2610.11846)|null|
+|**2026-10-08**|**MARC: Multi-Bit Watermarking for Autoregressive Audio Generation against Codec Attacks**|Liaoran Xu et.al.|[2610.11488](http://arxiv.org/abs/2610.11488)|null|
+|**2026-10-07**|**AutoSynth: Learning to Generate Editable Synthesizer Programs from Audio and Text**|Tristan Wu et.al.|[2610.10774](http://arxiv.org/abs/2610.10774)|null|
 |**2026-10-06**|**CTAG-FX: Reinterpreting Synthesizer Parameter Spaces for Expressive Tone-Shaping Audio FX Design**|Geonung Jo et.al.|[2610.08182](http://arxiv.org/abs/2610.08182)|null|
 |**2026-10-06**|**An Empirical Analysis of Task-Induced Encoder Bias in Fréchet Audio Distance**|Wonwoo Jeong et.al.|[2602.23958](http://arxiv.org/abs/2602.23958)|null|
 |**2026-10-05**|**Relational Synthesis: Structure-Mediated Concatenative Synthesis for Foley and Retrieval-Augmented Audio Generation**|Keren Shao et.al.|[2610.05768](http://arxiv.org/abs/2610.05768)|null|
@@ -33,7 +37,6 @@
 |**2026-10-01**|**VideoWeaver: Evaluating and Evolving Skills for Agentic Long Video Generation**|Jianhui Wei et.al.|[2606.08091](http://arxiv.org/abs/2606.08091)|null|
 |**2026-10-01**|**RVCBench: Benchmarking the Robustness of Voice Cloning Across Modern Audio Generation Models**|Ruinan Jin et.al.|[2602.00443](http://arxiv.org/abs/2602.00443)|null|
 |**2026-09-30**|**PLACE: Positional Latent Adaptation via Conditioned Embeddings for Binaural Audio Generation**|Tiernon Riesenmy et.al.|[2610.00630](http://arxiv.org/abs/2610.00630)|null|
-|**2026-09-30**|**Here the World in Stereo: Learning Dynamic Spatial Correspondence for Immersive Joint Video-Audio Generation**|Hanmo Chen et.al.|[2609.38748](http://arxiv.org/abs/2609.38748)|null|
 |**2026-09-30**|**Fusion Anything: A Generalized Multimodal Foundation Model**|Huizi Cui et.al.|[2609.22107](http://arxiv.org/abs/2609.22107)|null|
 |**2026-09-30**|**MMMG: a Comprehensive and Reliable Benchmark for Multitask Multimodal Generation**|Jihan Yao et.al.|[2505.17613](http://arxiv.org/abs/2505.17613)|null|
 |**2026-09-29**|**AS $^2$ D: Accelerating On-Demand Audio Understanding on Mobile Devices**|Yunzhe Li et.al.|[2609.37617](http://arxiv.org/abs/2609.37617)|null|
@@ -1197,5 +1200,5 @@
 |**2003-07-30**|**Web Access to Cultural Heritage for the Disabled**|Jonathan P. Bowen et.al.|[cs/0307068](http://arxiv.org/abs/cs/0307068)|null|
 |**2003-05-29**|**Developing Open Data Models for Linguistic Field Data**|Baden Hughes et.al.|[cs/0305053](http://arxiv.org/abs/cs/0305053)|null|
 
-<p align=right>(<a href=#updated-on-20261008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261009>back to top</a>)</p>
 
