@@ -1,4 +1,4 @@
-## Updated on 2026.10.20
+## Updated on 2026.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -19,6 +19,7 @@
 |**2026-10-13**|**Kandinsky S2V 1.0: Audio-Driven Avatar Video Generation**|Nikolay Semenov et.al.|[2610.19290](http://arxiv.org/abs/2610.19290)|null|
 |**2026-10-12**|**Hear the World in Stereo: Learning Dynamic Spatial Correspondence for Immersive Joint Video-Audio Generation**|Hanmo Chen et.al.|[2609.38748](http://arxiv.org/abs/2609.38748)|null|
 |**2026-10-09**|**TrajCFG: Token-Wise Classifier-Free Guidance via Denoising Trajectory Feedback**|Jingyu Liu et.al.|[2610.14153](http://arxiv.org/abs/2610.14153)|null|
+|**2026-10-09**|**Exploring Representation Autoencoders for Text-to-Audio Generation**|Bernardo V. Miranda et.al.|[2610.26881](http://arxiv.org/abs/2610.26881)|null|
 |**2026-10-08**|**Open-Vocabulary Audio-Visual Event Localization via Complex-Valued Fusion**|Anirudh Praveen et.al.|[2610.11846](http://arxiv.org/abs/2610.11846)|null|
 |**2026-10-08**|**MARC: Multi-Bit Watermarking for Autoregressive Audio Generation against Codec Attacks**|Liaoran Xu et.al.|[2610.11488](http://arxiv.org/abs/2610.11488)|null|
 |**2026-10-07**|**AutoSynth: Learning to Generate Editable Synthesizer Programs from Audio and Text**|Tristan Wu et.al.|[2610.10774](http://arxiv.org/abs/2610.10774)|null|
@@ -1204,5 +1205,5 @@
 |**2003-07-30**|**Web Access to Cultural Heritage for the Disabled**|Jonathan P. Bowen et.al.|[cs/0307068](http://arxiv.org/abs/cs/0307068)|null|
 |**2003-05-29**|**Developing Open Data Models for Linguistic Field Data**|Baden Hughes et.al.|[cs/0305053](http://arxiv.org/abs/cs/0305053)|null|
 
-<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
