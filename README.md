@@ -14,11 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-22**|**TrajCFG: Token-Wise Classifier-Free Guidance via Denoising Trajectory Feedback**|Jingyu Liu et.al.|[2610.14153](http://arxiv.org/abs/2610.14153)|null|
+|**2026-10-22**|**MQAScore: Fine-Grained Text-Music Alignment Evaluation via Large Audio Language Model**|Wei-Jaw Lee et.al.|[2610.31083](http://arxiv.org/abs/2610.31083)|null|
+|**2026-10-22**|**TRIAD: Benchmarking Omni-Modal Ambiguity in Multimodal Large Language Models**|Zhaolu Kang et.al.|[2610.30841](http://arxiv.org/abs/2610.30841)|null|
+|**2026-10-21**|**AI Mindmeld: A Latent Interconnect Protocol**|Siavash Golkar et.al.|[2610.30215](http://arxiv.org/abs/2610.30215)|null|
 |**2026-10-16**|**Semantic-Critical Regions for Video-to-Audio Generation**|Yun Fang et.al.|[2610.23021](http://arxiv.org/abs/2610.23021)|null|
 |**2026-10-14**|**MSP: Modality Self-Play for Training Multimodal LLMs Without Paired Cross-Modal Data**|Robert Moseley et.al.|[2610.20965](http://arxiv.org/abs/2610.20965)|null|
 |**2026-10-13**|**Kandinsky S2V 1.0: Audio-Driven Avatar Video Generation**|Nikolay Semenov et.al.|[2610.19290](http://arxiv.org/abs/2610.19290)|null|
 |**2026-10-12**|**Hear the World in Stereo: Learning Dynamic Spatial Correspondence for Immersive Joint Video-Audio Generation**|Hanmo Chen et.al.|[2609.38748](http://arxiv.org/abs/2609.38748)|null|
-|**2026-10-09**|**TrajCFG: Token-Wise Classifier-Free Guidance via Denoising Trajectory Feedback**|Jingyu Liu et.al.|[2610.14153](http://arxiv.org/abs/2610.14153)|null|
 |**2026-10-09**|**Exploring Representation Autoencoders for Text-to-Audio Generation**|Bernardo V. Miranda et.al.|[2610.26881](http://arxiv.org/abs/2610.26881)|null|
 |**2026-10-08**|**Open-Vocabulary Audio-Visual Event Localization via Complex-Valued Fusion**|Anirudh Praveen et.al.|[2610.11846](http://arxiv.org/abs/2610.11846)|null|
 |**2026-10-08**|**MARC: Multi-Bit Watermarking for Autoregressive Audio Generation against Codec Attacks**|Liaoran Xu et.al.|[2610.11488](http://arxiv.org/abs/2610.11488)|null|
