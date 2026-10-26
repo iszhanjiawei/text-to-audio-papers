@@ -1,4 +1,4 @@
-## Updated on 2026.10.25
+## Updated on 2026.10.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,9 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-23**|**Melody Guidance for Audio Diffusion Models Without Retraining**|Cristobal Andrade et.al.|[2610.32211](http://arxiv.org/abs/2610.32211)|null|
 |**2026-10-22**|**TrajCFG: Token-Wise Classifier-Free Guidance via Denoising Trajectory Feedback**|Jingyu Liu et.al.|[2610.14153](http://arxiv.org/abs/2610.14153)|null|
 |**2026-10-22**|**MQAScore: Fine-Grained Text-Music Alignment Evaluation via Large Audio Language Model**|Wei-Jaw Lee et.al.|[2610.31083](http://arxiv.org/abs/2610.31083)|null|
 |**2026-10-22**|**TRIAD: Benchmarking Omni-Modal Ambiguity in Multimodal Large Language Models**|Zhaolu Kang et.al.|[2610.30841](http://arxiv.org/abs/2610.30841)|null|
+|**2026-10-22**|**Omni-UBench: Benchmarking Omni-Modal LLM-based Guardrails Across Safety, Utility, and Reliability**|Junhao Wang et.al.|[2610.31713](http://arxiv.org/abs/2610.31713)|null|
 |**2026-10-21**|**AI Mindmeld: A Latent Interconnect Protocol**|Siavash Golkar et.al.|[2610.30215](http://arxiv.org/abs/2610.30215)|null|
 |**2026-10-16**|**Semantic-Critical Regions for Video-to-Audio Generation**|Yun Fang et.al.|[2610.23021](http://arxiv.org/abs/2610.23021)|null|
 |**2026-10-14**|**MSP: Modality Self-Play for Training Multimodal LLMs Without Paired Cross-Modal Data**|Robert Moseley et.al.|[2610.20965](http://arxiv.org/abs/2610.20965)|null|
@@ -1208,5 +1210,5 @@
 |**2003-07-30**|**Web Access to Cultural Heritage for the Disabled**|Jonathan P. Bowen et.al.|[cs/0307068](http://arxiv.org/abs/cs/0307068)|null|
 |**2003-05-29**|**Developing Open Data Models for Linguistic Field Data**|Baden Hughes et.al.|[cs/0305053](http://arxiv.org/abs/cs/0305053)|null|
 
-<p align=right>(<a href=#updated-on-20261025>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
 
