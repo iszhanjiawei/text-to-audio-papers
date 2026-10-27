@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-26**|**When Fusion Order Matters: Insights on Progressive Multimodal Representation Learning for Cross-modal Retrieval**|Haoxiang Zhao et.al.|[2610.35125](http://arxiv.org/abs/2610.35125)|null|
+|**2026-10-25**|**Spatial Audio Generation and Editing with Executable Plans and Self-Distilling Transfusion**|Kam Man Wu et.al.|[2610.34415](http://arxiv.org/abs/2610.34415)|null|
 |**2026-10-23**|**Melody Guidance for Audio Diffusion Models Without Retraining**|Cristobal Andrade et.al.|[2610.32211](http://arxiv.org/abs/2610.32211)|null|
 |**2026-10-22**|**TrajCFG: Token-Wise Classifier-Free Guidance via Denoising Trajectory Feedback**|Jingyu Liu et.al.|[2610.14153](http://arxiv.org/abs/2610.14153)|null|
 |**2026-10-22**|**MQAScore: Fine-Grained Text-Music Alignment Evaluation via Large Audio Language Model**|Wei-Jaw Lee et.al.|[2610.31083](http://arxiv.org/abs/2610.31083)|null|
