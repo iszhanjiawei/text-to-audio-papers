@@ -1,4 +1,4 @@
-## Updated on 2026.10.27
+## Updated on 2026.10.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-27**|**Partially Edited Audio: Generation, Defense, and Open Problems**|Lin Zhang et.al.|[2610.37640](http://arxiv.org/abs/2610.37640)|null|
+|**2026-10-27**|**EmbeddingGemma 2: Unified and Efficient Multimodal Representations**|Henrique Schechter Vera et.al.|[2610.37364](http://arxiv.org/abs/2610.37364)|null|
+|**2026-10-27**|**TAC2: Timestamped Audio Captioning as composable functions**|Swapnil Bhosale et.al.|[2610.36568](http://arxiv.org/abs/2610.36568)|null|
 |**2026-10-26**|**When Fusion Order Matters: Insights on Progressive Multimodal Representation Learning for Cross-modal Retrieval**|Haoxiang Zhao et.al.|[2610.35125](http://arxiv.org/abs/2610.35125)|null|
 |**2026-10-25**|**Spatial Audio Generation and Editing with Executable Plans and Self-Distilling Transfusion**|Kam Man Wu et.al.|[2610.34415](http://arxiv.org/abs/2610.34415)|null|
 |**2026-10-23**|**Melody Guidance for Audio Diffusion Models Without Retraining**|Cristobal Andrade et.al.|[2610.32211](http://arxiv.org/abs/2610.32211)|null|
@@ -1212,5 +1215,5 @@
 |**2003-07-30**|**Web Access to Cultural Heritage for the Disabled**|Jonathan P. Bowen et.al.|[cs/0307068](http://arxiv.org/abs/cs/0307068)|null|
 |**2003-05-29**|**Developing Open Data Models for Linguistic Field Data**|Baden Hughes et.al.|[cs/0305053](http://arxiv.org/abs/cs/0305053)|null|
 
-<p align=right>(<a href=#updated-on-20261027>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261028>back to top</a>)</p>
 
