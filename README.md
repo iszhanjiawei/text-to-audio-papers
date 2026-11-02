@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-30**|**MFlowAudio: Efficient Text-to-Audio Synthesis via Mamba-based Stateful Flow Matching**|Hao Dai et.al.|[2610.41852](http://arxiv.org/abs/2610.41852)|null|
 |**2026-10-29**|**Incongruence-Aware Evaluation of Multimodal Speech Emotion Recognition in Audio Large Language Models**|Fengji Jing et.al.|[2610.40883](http://arxiv.org/abs/2610.40883)|null|
 |**2026-10-28**|**A Tutorial on Generative Models for Music Audio**|Mateusz Modrzejewski et.al.|[2610.38252](http://arxiv.org/abs/2610.38252)|null|
 |**2026-10-27**|**Partially Edited Audio: Generation, Defense, and Open Problems**|Lin Zhang et.al.|[2610.37640](http://arxiv.org/abs/2610.37640)|null|
