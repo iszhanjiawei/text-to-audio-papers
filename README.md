@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-02**|**TaoMate-HD: Progressive-Resolution Autoregressive Audio-Video Generation**|Qijun Gan et.al.|[2611.03394](http://arxiv.org/abs/2611.03394)|null|
+|**2026-11-02**|**CrowdForge: Effects of Audio and Visual Audience Participation Modalities on Agency, Collaboration, and Engagement in AI-Mediated MR Performances**|Torin Hopkins et.al.|[2611.03389](http://arxiv.org/abs/2611.03389)|null|
+|**2026-11-02**|**Fuse To Align: Multimodal Representation Learning for Retrieval via Hypergraph Regularization**|Anindya Nag et.al.|[2611.03370](http://arxiv.org/abs/2611.03370)|null|
 |**2026-10-31**|**Rel2Traj: Inter-Source Relation-Aware Trajectory Generation for Text-To-Spatial-Audio**|Yihang Bao et.al.|[2611.01147](http://arxiv.org/abs/2611.01147)|null|
 |**2026-10-31**|**Reflex: Fast Robot Policy Serving by Reusing and Correcting Past Actions**|Ziyang Lin et.al.|[2611.00524](http://arxiv.org/abs/2611.00524)|null|
 |**2026-10-30**|**MFlowAudio: Efficient Text-to-Audio Synthesis via Mamba-based Stateful Flow Matching**|Hao Dai et.al.|[2610.41852](http://arxiv.org/abs/2610.41852)|null|
