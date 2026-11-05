@@ -1,4 +1,4 @@
-## Updated on 2026.11.04
+## Updated on 2026.11.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,9 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-04**|**LiveFoley: Dynamic Real-Time Video-to-Audio Generation for Immersive Interactive Worlds**|Yusheng Dai et.al.|[2611.05988](http://arxiv.org/abs/2611.05988)|null|
 |**2026-11-02**|**TaoMate-HD: Progressive-Resolution Autoregressive Audio-Video Generation**|Qijun Gan et.al.|[2611.03394](http://arxiv.org/abs/2611.03394)|null|
 |**2026-11-02**|**CrowdForge: Effects of Audio and Visual Audience Participation Modalities on Agency, Collaboration, and Engagement in AI-Mediated MR Performances**|Torin Hopkins et.al.|[2611.03389](http://arxiv.org/abs/2611.03389)|null|
 |**2026-11-02**|**Fuse To Align: Multimodal Representation Learning for Retrieval via Hypergraph Regularization**|Anindya Nag et.al.|[2611.03370](http://arxiv.org/abs/2611.03370)|null|
+|**2026-11-02**|**CAST-Bench: Tracing Every Sound to Its Source in Multi-Shot Audio-Video Generation**|Yucong Liu et.al.|[2611.05422](http://arxiv.org/abs/2611.05422)|null|
 |**2026-10-31**|**Rel2Traj: Inter-Source Relation-Aware Trajectory Generation for Text-To-Spatial-Audio**|Yihang Bao et.al.|[2611.01147](http://arxiv.org/abs/2611.01147)|null|
 |**2026-10-31**|**Reflex: Fast Robot Policy Serving by Reusing and Correcting Past Actions**|Ziyang Lin et.al.|[2611.00524](http://arxiv.org/abs/2611.00524)|null|
 |**2026-10-30**|**MFlowAudio: Efficient Text-to-Audio Synthesis via Mamba-based Stateful Flow Matching**|Hao Dai et.al.|[2610.41852](http://arxiv.org/abs/2610.41852)|null|
@@ -1223,5 +1225,5 @@
 |**2003-07-30**|**Web Access to Cultural Heritage for the Disabled**|Jonathan P. Bowen et.al.|[cs/0307068](http://arxiv.org/abs/cs/0307068)|null|
 |**2003-05-29**|**Developing Open Data Models for Linguistic Field Data**|Baden Hughes et.al.|[cs/0305053](http://arxiv.org/abs/cs/0305053)|null|
 
-<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
 
