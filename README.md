@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-09**|**EmbeddingGemma 2: Unified and Efficient Multimodal Representations**|Henrique Schechter Vera et.al.|[2610.37364](http://arxiv.org/abs/2610.37364)|null|
 |**2026-11-08**|**Small Data Generative AI for Culturally Specific Artistic Creation: A Case Study on the Sonic Space of sarir**|Arshia Sobhan et.al.|[2611.11374](http://arxiv.org/abs/2611.11374)|null|
 |**2026-11-06**|**AUTEUR: Acoustic Plan Learning for Red-Teaming Text-to-Audio Models**|Jiashu Zhang et.al.|[2611.09351](http://arxiv.org/abs/2611.09351)|null|
 |**2026-11-05**|**FoleyForge: Free-form, Controllable, Rectified-flow Editing of Sound Effects**|Giovana Morais et.al.|[2611.08695](http://arxiv.org/abs/2611.08695)|null|
@@ -28,7 +29,6 @@
 |**2026-10-29**|**Incongruence-Aware Evaluation of Multimodal Speech Emotion Recognition in Audio Large Language Models**|Fengji Jing et.al.|[2610.40883](http://arxiv.org/abs/2610.40883)|null|
 |**2026-10-28**|**A Tutorial on Generative Models for Music Audio**|Mateusz Modrzejewski et.al.|[2610.38252](http://arxiv.org/abs/2610.38252)|null|
 |**2026-10-27**|**Partially Edited Audio: Generation, Defense, and Open Problems**|Lin Zhang et.al.|[2610.37640](http://arxiv.org/abs/2610.37640)|null|
-|**2026-10-27**|**EmbeddingGemma 2: Unified and Efficient Multimodal Representations**|Henrique Schechter Vera et.al.|[2610.37364](http://arxiv.org/abs/2610.37364)|null|
 |**2026-10-27**|**TAC2: Timestamped Audio Captioning as composable functions**|Swapnil Bhosale et.al.|[2610.36568](http://arxiv.org/abs/2610.36568)|null|
 |**2026-10-26**|**When Fusion Order Matters: Insights on Progressive Multimodal Representation Learning for Cross-modal Retrieval**|Haoxiang Zhao et.al.|[2610.35125](http://arxiv.org/abs/2610.35125)|null|
 |**2026-10-25**|**Spatial Audio Generation and Editing with Executable Plans and Self-Distilling Transfusion**|Kam Man Wu et.al.|[2610.34415](http://arxiv.org/abs/2610.34415)|null|
