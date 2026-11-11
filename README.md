@@ -1,4 +1,4 @@
-## Updated on 2026.11.10
+## Updated on 2026.11.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-10**|**MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing**|Teysir Baoueb et.al.|[2611.13834](http://arxiv.org/abs/2611.13834)|null|
 |**2026-11-09**|**EmbeddingGemma 2: Unified and Efficient Multimodal Representations**|Henrique Schechter Vera et.al.|[2610.37364](http://arxiv.org/abs/2610.37364)|null|
 |**2026-11-08**|**Small Data Generative AI for Culturally Specific Artistic Creation: A Case Study on the Sonic Space of sarir**|Arshia Sobhan et.al.|[2611.11374](http://arxiv.org/abs/2611.11374)|null|
 |**2026-11-06**|**AUTEUR: Acoustic Plan Learning for Red-Teaming Text-to-Audio Models**|Jiashu Zhang et.al.|[2611.09351](http://arxiv.org/abs/2611.09351)|null|
@@ -1228,5 +1229,5 @@
 |**2003-07-30**|**Web Access to Cultural Heritage for the Disabled**|Jonathan P. Bowen et.al.|[cs/0307068](http://arxiv.org/abs/cs/0307068)|null|
 |**2003-05-29**|**Developing Open Data Models for Linguistic Field Data**|Baden Hughes et.al.|[cs/0305053](http://arxiv.org/abs/cs/0305053)|null|
 
-<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
 
