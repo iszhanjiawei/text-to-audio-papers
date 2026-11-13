@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-12**|**XBot-Omni: An Omni-Modal Model for Embodied Understanding and Interaction**|Kerui Gu et.al.|[2611.17160](http://arxiv.org/abs/2611.17160)|null|
 |**2026-11-10**|**MusicFlux: Flexible Conditioning for Text-Guided Music Generation and Editing**|Teysir Baoueb et.al.|[2611.13834](http://arxiv.org/abs/2611.13834)|null|
 |**2026-11-09**|**EmbeddingGemma 2: Unified and Efficient Multimodal Representations**|Henrique Schechter Vera et.al.|[2610.37364](http://arxiv.org/abs/2610.37364)|null|
 |**2026-11-08**|**Small Data Generative AI for Culturally Specific Artistic Creation: A Case Study on the Sonic Space of sarir**|Arshia Sobhan et.al.|[2611.11374](http://arxiv.org/abs/2611.11374)|null|
