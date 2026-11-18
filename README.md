@@ -1,4 +1,4 @@
-## Updated on 2026.11.17
+## Updated on 2026.11.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-17**|**Beyond Co-Generation: Rethinking Jointness in Joint Audio-Video Generation**|Jihoo Jung et.al.|[2611.22857](http://arxiv.org/abs/2611.22857)|null|
+|**2026-11-17**|**Pixel is All You Need**|Jie Chu et.al.|[2611.22820](http://arxiv.org/abs/2611.22820)|null|
+|**2026-11-17**|**High-Fidelity Binarized Neural Vocoder**|Andong Li et.al.|[2611.22593](http://arxiv.org/abs/2611.22593)|null|
 |**2026-11-15**|**XBot-Omni: An Omni-Modal Model for Embodied Understanding and Interaction**|Kerui Gu et.al.|[2611.17160](http://arxiv.org/abs/2611.17160)|null|
 |**2026-11-13**|**Detection and Classification in Latent Spaces: High-Dimensional Analysis and Validation**|Enis Chenchene et.al.|[2611.18164](http://arxiv.org/abs/2611.18164)|null|
 |**2026-11-13**|**CoTTAGE: An Explainable Judge for Text-to-Audio Generation**|Yu-Xiang Lin et.al.|[2611.17644](http://arxiv.org/abs/2611.17644)|null|
@@ -1233,5 +1236,5 @@
 |**2003-07-30**|**Web Access to Cultural Heritage for the Disabled**|Jonathan P. Bowen et.al.|[cs/0307068](http://arxiv.org/abs/cs/0307068)|null|
 |**2003-05-29**|**Developing Open Data Models for Linguistic Field Data**|Baden Hughes et.al.|[cs/0305053](http://arxiv.org/abs/cs/0305053)|null|
 
-<p align=right>(<a href=#updated-on-20261117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261118>back to top</a>)</p>
 
