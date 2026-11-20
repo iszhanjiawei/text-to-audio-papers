@@ -1,4 +1,4 @@
-## Updated on 2026.11.19
+## Updated on 2026.11.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-19**|**WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding**|Changli Tang et.al.|[2611.26409](http://arxiv.org/abs/2611.26409)|null|
+|**2026-11-19**|**AltRA-Test: An Alternative Annotator Test for LLM Judges Without Shared Annotators**|Nagham Omar et.al.|[2611.26073](http://arxiv.org/abs/2611.26073)|null|
 |**2026-11-17**|**Beyond Co-Generation: Rethinking Jointness in Joint Audio-Video Generation**|Jihoo Jung et.al.|[2611.22857](http://arxiv.org/abs/2611.22857)|null|
 |**2026-11-17**|**Pixel is All You Need**|Jie Chu et.al.|[2611.22820](http://arxiv.org/abs/2611.22820)|null|
 |**2026-11-17**|**High-Fidelity Binarized Neural Vocoder**|Andong Li et.al.|[2611.22593](http://arxiv.org/abs/2611.22593)|null|
@@ -1236,5 +1238,5 @@
 |**2003-07-30**|**Web Access to Cultural Heritage for the Disabled**|Jonathan P. Bowen et.al.|[cs/0307068](http://arxiv.org/abs/cs/0307068)|null|
 |**2003-05-29**|**Developing Open Data Models for Linguistic Field Data**|Baden Hughes et.al.|[cs/0305053](http://arxiv.org/abs/cs/0305053)|null|
 
-<p align=right>(<a href=#updated-on-20261119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261120>back to top</a>)</p>
 
