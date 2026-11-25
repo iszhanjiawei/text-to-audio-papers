@@ -1,4 +1,4 @@
-## Updated on 2026.11.24
+## Updated on 2026.11.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-24**|**VividAudio: Multi-Event Reference-Conditioned Video-to-Audio Generation**|You Li et.al.|[2611.32458](http://arxiv.org/abs/2611.32458)|null|
 |**2026-11-23**|**LiveAudio: From Bidirectional to Autoregressive Diffusion for Real-Time Streaming Video-to-Audio Generation**|Yuxuan Jiang et.al.|[2611.30714](http://arxiv.org/abs/2611.30714)|null|
 |**2026-11-23**|**SonicRender: Structured and Time-Grounded Rendering of Multi-Event Audio Scene Generation**|Yunrui Cai et.al.|[2611.30241](http://arxiv.org/abs/2611.30241)|null|
 |**2026-11-21**|**Definition-Guided In-Context Learning for Zero-Shot Spoken Language Understanding**|Neeraj Agrawala et.al.|[2611.28929](http://arxiv.org/abs/2611.28929)|null|
@@ -1241,5 +1242,5 @@
 |**2003-07-30**|**Web Access to Cultural Heritage for the Disabled**|Jonathan P. Bowen et.al.|[cs/0307068](http://arxiv.org/abs/cs/0307068)|null|
 |**2003-05-29**|**Developing Open Data Models for Linguistic Field Data**|Baden Hughes et.al.|[cs/0305053](http://arxiv.org/abs/cs/0305053)|null|
 
-<p align=right>(<a href=#updated-on-20261124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
 
