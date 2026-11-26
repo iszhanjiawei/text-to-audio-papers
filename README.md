@@ -1,4 +1,4 @@
-## Updated on 2026.11.25
+## Updated on 2026.11.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,14 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-25**|**Pixel is All You Need**|Jie Chu et.al.|[2611.22820](http://arxiv.org/abs/2611.22820)|null|
+|**2026-11-25**|**AltRA-Test: An Alternative Annotator Test for LLM Judges Without Shared Annotators**|Nagham Omar et.al.|[2611.26073](http://arxiv.org/abs/2611.26073)|null|
+|**2026-11-25**|**Investigation of generalization to unseen audio generation models in audio--text semantic-alignment score prediction**|Yuki Okamoto et.al.|[2611.34626](http://arxiv.org/abs/2611.34626)|null|
 |**2026-11-24**|**VividAudio: Multi-Event Reference-Conditioned Video-to-Audio Generation**|You Li et.al.|[2611.32458](http://arxiv.org/abs/2611.32458)|null|
 |**2026-11-23**|**LiveAudio: From Bidirectional to Autoregressive Diffusion for Real-Time Streaming Video-to-Audio Generation**|Yuxuan Jiang et.al.|[2611.30714](http://arxiv.org/abs/2611.30714)|null|
 |**2026-11-23**|**SonicRender: Structured and Time-Grounded Rendering of Multi-Event Audio Scene Generation**|Yunrui Cai et.al.|[2611.30241](http://arxiv.org/abs/2611.30241)|null|
 |**2026-11-21**|**Definition-Guided In-Context Learning for Zero-Shot Spoken Language Understanding**|Neeraj Agrawala et.al.|[2611.28929](http://arxiv.org/abs/2611.28929)|null|
 |**2026-11-19**|**WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding**|Changli Tang et.al.|[2611.26409](http://arxiv.org/abs/2611.26409)|null|
-|**2026-11-19**|**AltRA-Test: An Alternative Annotator Test for LLM Judges Without Shared Annotators**|Nagham Omar et.al.|[2611.26073](http://arxiv.org/abs/2611.26073)|null|
 |**2026-11-17**|**Beyond Co-Generation: Rethinking Jointness in Joint Audio-Video Generation**|Jihoo Jung et.al.|[2611.22857](http://arxiv.org/abs/2611.22857)|null|
-|**2026-11-17**|**Pixel is All You Need**|Jie Chu et.al.|[2611.22820](http://arxiv.org/abs/2611.22820)|null|
 |**2026-11-17**|**High-Fidelity Binarized Neural Vocoder**|Andong Li et.al.|[2611.22593](http://arxiv.org/abs/2611.22593)|null|
 |**2026-11-15**|**XBot-Omni: An Omni-Modal Model for Embodied Understanding and Interaction**|Kerui Gu et.al.|[2611.17160](http://arxiv.org/abs/2611.17160)|null|
 |**2026-11-13**|**Detection and Classification in Latent Spaces: High-Dimensional Analysis and Validation**|Enis Chenchene et.al.|[2611.18164](http://arxiv.org/abs/2611.18164)|null|
@@ -1242,5 +1243,5 @@
 |**2003-07-30**|**Web Access to Cultural Heritage for the Disabled**|Jonathan P. Bowen et.al.|[cs/0307068](http://arxiv.org/abs/cs/0307068)|null|
 |**2003-05-29**|**Developing Open Data Models for Linguistic Field Data**|Baden Hughes et.al.|[cs/0305053](http://arxiv.org/abs/cs/0305053)|null|
 
-<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 
